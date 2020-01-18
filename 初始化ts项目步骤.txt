@@ -1,0 +1,4 @@
+1.git clone https://github.com/alexjoverm/typescript-library-starter.git ts-axios（将创建的文件夹名）
+2.cd ts-axios
+
+3.npm install（或者 cnpm install）
